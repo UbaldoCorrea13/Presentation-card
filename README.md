@@ -6,18 +6,6 @@
 
 ### 🏠 [Homepage](https://github.com/UbaldoCorrea13/Presentation-card#readme)
 
-## 🎉 Install
-
-```sh
-npm install
-```
-
-## 🔥 Usage
-
-```sh
-npm start
-```
-
 ## 👨🏾‍💻 Techs
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
