@@ -19,7 +19,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/UbaldoCorrea13/Presentation-card/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/UbaldoCorrea13).
 
 
 ***
