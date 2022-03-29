@@ -4,7 +4,7 @@
 
 <h1 align="center"> Presentation card</h1>
 
-### 🏠 [Homepage](https://github.com/UbaldoCorrea13/Presentation-card#readme)
+### 🏠 [Homepage](https://github.com/UbaldoCorrea13)
 
 ## 👨🏾‍💻 Techs
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
